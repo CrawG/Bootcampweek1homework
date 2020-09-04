@@ -54,16 +54,6 @@ header nav ul li {
     background-position: center;
 }
 
-/* .float-left {
-    float: left;
-    margin-right: 25px;
-}
-
-.float-right {
-    float: right;
-    margin-left: 25px;
-} */
-
 
 /* style for all <section> elements */
 .content {
@@ -76,6 +66,16 @@ header nav ul li {
 a {
     color: #ffffff;
     text-decoration: none;
+}
+
+.float-left {
+    float: left;
+    margin-right: 25px;
+}
+
+.float-right {
+    float: right;
+    margin-left: 25px;
 }
 
 /* search engine optmization <article> */
